@@ -1,0 +1,14 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-purple { background-color: #a855f7 !important; }
+.bg-orange { background-color: #f97316 !important; }
+.text-purple { color: #a855f7 !important; }
+
+.stat-card {
+    transition: transform 0.2s;
+}
+.stat-card:hover {
+    transform: translateY(-5px);
+}
